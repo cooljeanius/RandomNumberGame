@@ -3,3 +3,4 @@ build/
 *.build
 *.pbxuser
 *.perspectivev3
+Debug/
