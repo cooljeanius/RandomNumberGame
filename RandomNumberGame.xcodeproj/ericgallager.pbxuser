@@ -24,9 +24,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					780,
+					834,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -41,12 +41,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 360101510;
-			PBXWorkspaceStateSaveDate = 360101510;
+			PBXPerProjectTemplateStateSaveDate = 361500462;
+			PBXWorkspaceStateSaveDate = 361500462;
 		};
 		perUserProjectItems = {
-			A5EB31D01576C94B006BA6A0 /* PBXTextBookmark */ = A5EB31D01576C94B006BA6A0 /* PBXTextBookmark */;
-			A5EB31D21576C9F8006BA6A0 /* PBXTextBookmark */ = A5EB31D21576C9F8006BA6A0 /* PBXTextBookmark */;
+			A5EECCCA158C08B000B48E22 /* PBXTextBookmark */ = A5EECCCA158C08B000B48E22 /* PBXTextBookmark */;
+			A5EECD64158C29BC00B48E22 /* PBXTextBookmark */ = A5EECD64158C29BC00B48E22 /* PBXTextBookmark */;
 		};
 		sourceControlManager = A5EB31431576B68B006BA6A0 /* Source Control */;
 		userBuildSettings = {
@@ -55,8 +55,8 @@
 	08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1153, 494}}";
-			sepNavSelRange = "{697, 0}";
-			sepNavVisRange = "{193, 1138}";
+			sepNavSelRange = "{1468, 37}";
+			sepNavVisRange = "{719, 887}";
 		};
 	};
 	8DD76FA90486AB0100D96B5E /* RandomNumberGame */ = {
@@ -125,7 +125,7 @@
 		ignoreCount = 0;
 		lineNumber = 25;
 		location = RandomNumberGame;
-		modificationTime = 360106314.009002;
+		modificationTime = 361503005.562248;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -143,7 +143,7 @@
 		ignoreCount = 0;
 		lineNumber = 27;
 		location = RandomNumberGame;
-		modificationTime = 360106314.009308;
+		modificationTime = 361503005.562764;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -161,7 +161,7 @@
 		ignoreCount = 0;
 		lineNumber = 30;
 		location = RandomNumberGame;
-		modificationTime = 360106314.009558;
+		modificationTime = 361503005.563348;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -179,28 +179,28 @@
 		ignoreCount = 0;
 		lineNumber = 34;
 		location = RandomNumberGame;
-		modificationTime = 360106314.009706;
+		modificationTime = 361503005.563839;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	A5EB31D01576C94B006BA6A0 /* PBXTextBookmark */ = {
+	A5EECCCA158C08B000B48E22 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */;
-		name = "main_randomnumbergame.c: 12";
-		rLen = 0;
-		rLoc = 697;
+		name = "main_randomnumbergame.c: 19";
+		rLen = 43;
+		rLoc = 814;
 		rType = 0;
-		vrLen = 521;
+		vrLen = 901;
 		vrLoc = 693;
 	};
-	A5EB31D21576C9F8006BA6A0 /* PBXTextBookmark */ = {
+	A5EECD64158C29BC00B48E22 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */;
-		name = "main_randomnumbergame.c: 12";
-		rLen = 0;
-		rLoc = 697;
+		name = "main_randomnumbergame.c: 32";
+		rLen = 37;
+		rLoc = 1468;
 		rType = 0;
-		vrLen = 1264;
-		vrLoc = 193;
+		vrLen = 887;
+		vrLoc = 719;
 	};
 }
