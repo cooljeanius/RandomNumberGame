@@ -5,3 +5,5 @@ build/*
 *.pbxuser
 *.perspectivev3
 Debug/
+*.cbTemp
+*.cbp.cbTemp

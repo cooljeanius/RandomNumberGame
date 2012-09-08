@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8DD76FAC0486AB0100D96B5E /* main_randomnumbergame.c in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */; settings = {ATTRIBUTES = (); }; };
 		8DD76FB00486AB0100D96B5E /* RandomNumberGame.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6A0FF2C0290799A04C91782 /* RandomNumberGame.1 */; };
+		A5BE189D15FAEA8900BDBB9E /* main_randomnumbergame.c in Sources */ = {isa = PBXBuildFile; fileRef = A5BE189C15FAEA8900BDBB9E /* main_randomnumbergame.c */; };
 		A5EB317D1576C01C006BA6A0 /* libgcov.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A5EB317C1576C01C006BA6A0 /* libgcov.a */; };
 /* End PBXBuildFile section */
 
@@ -26,10 +26,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main_randomnumbergame.c; sourceTree = "<group>"; };
 		8DD76FB20486AB0100D96B5E /* RandomNumberGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RandomNumberGame; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5BE189C15FAEA8900BDBB9E /* main_randomnumbergame.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = main_randomnumbergame.c; path = src/main_randomnumbergame.c; sourceTree = "<group>"; };
 		A5EB317C1576C01C006BA6A0 /* libgcov.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgcov.a; path = "usr/lib/gcc/i686-apple-darwin10/4.2.1/libgcov.a"; sourceTree = DEVELOPER_DIR; };
-		C6A0FF2C0290799A04C91782 /* RandomNumberGame.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = RandomNumberGame.1; sourceTree = "<group>"; };
+		C6A0FF2C0290799A04C91782 /* RandomNumberGame.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; name = RandomNumberGame.1; path = doc/RandomNumberGame.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		08FB7795FE84155DC02AAC07 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				08FB7796FE84155DC02AAC07 /* main_randomnumbergame.c */,
+				A5BE189C15FAEA8900BDBB9E /* main_randomnumbergame.c */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8DD76FAC0486AB0100D96B5E /* main_randomnumbergame.c in Sources */,
+				A5BE189D15FAEA8900BDBB9E /* main_randomnumbergame.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
