@@ -7,3 +7,6 @@ build/*
 Debug/
 *.cbTemp
 *.cbp.cbTemp
+*.cache
+*.log
+*.status
