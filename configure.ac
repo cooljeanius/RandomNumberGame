@@ -12,6 +12,12 @@ AM_INIT_AUTOMAKE([foreign subdir-objects])dnl
 # Checks for programs.
 AC_PROG_CC
 
+# Checks for header files.
+AC_CHECK_HEADERS_ONCE([stdio.h time.h])dnl
+
+# Checks for library functions.
+AC_CHECK_FUNCS([printf scanf time])dnl
+
 # Output.
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT

@@ -15,3 +15,7 @@ src/.deps/*.*o
 *.log
 *.status
 config.h
+*.xcworkspacedata
+*.xcuserstate
+*/xcuserdata/*
+*.xcuserdatad
