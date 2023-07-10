@@ -10,3 +10,8 @@ Debug/
 *.cache
 *.log
 *.status
+autom4te.*/*
+src/.deps/*.*o
+*.log
+*.status
+config.h
