@@ -14,7 +14,8 @@
 #include <stdio.h>
 #include <time.h>
 
-int main (int solved, int Guess) {
+int main (void) {
+	int solved, Guess;
 	solved = 0; // Initialize the variable
 	int RandomNumber = ((int)time(NULL)) % 100; // RandomNumber will be a number between 0 and 99.
     while (solved != 1) { // Use a while loop to let the user guess again if they get it wrong the first time

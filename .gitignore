@@ -19,3 +19,8 @@ config.h
 *.xcuserstate
 */xcuserdata/*
 *.xcuserdatad
+Makefile
+stamp-*
+*.dirstamp
+*.o
+RandomNumberGame
