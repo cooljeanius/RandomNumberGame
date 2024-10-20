@@ -9,6 +9,8 @@ AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_HEADERS([config.h])
 AM_INIT_AUTOMAKE([foreign subdir-objects])dnl
 
+AM_MAINTAINER_MODE
+
 # Checks for programs.
 AC_PROG_CC
 
